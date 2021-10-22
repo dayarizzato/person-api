@@ -14,9 +14,10 @@
 	<name>personapi</name>
 	<description>Person API project</description>
 	<properties>
-		<java.version>12</java.version>
-	</properties>
-	 <dependencies>
+        <java.version>11</java.version>
+    </properties>
+
+    <dependencies>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
